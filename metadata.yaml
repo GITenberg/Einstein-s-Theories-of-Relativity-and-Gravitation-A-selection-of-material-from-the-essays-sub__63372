@@ -1,0 +1,68 @@
+_repo: Einstein-s-Theories-of-Relativity-and-Gravitation-A-selection-of-material-from-the-essays-sub__63372
+_version: 0.0.1
+contributor:
+  other_contributor:
+    agent_name: Einstein, Albert
+    birthdate: 1879
+    deathdate: 1955
+    gutenberg_agent_id: '1630'
+    url: http://www.gutenberg.org/2009/agents/1630
+    wikipedia: http://en.wikipedia.org/wiki/Albert_Einstein
+creator:
+  author:
+    agent_name: Bird, J. Malcolm (James Malcolm)
+    alias: Bird, James Malcolm
+    birthdate: 1886
+    deathdate: 1964
+    gutenberg_agent_id: '52406'
+    url: http://www.gutenberg.org/2009/agents/52406
+    wikipedia: https://en.wikipedia.org/wiki/J._Malcolm_Bird
+description: ''
+gutenberg_issued: '2020-10-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63372'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Relativity (Physics)'
+- !lcc 'QC'
+- GITenberg
+tableOfContents: 'The Einstein $5,000 prize: how the contest came to be held, and
+  some of the details of its conduct -- The world--and us: an introductory discussion
+  of the philosophy of relativity, and of the mechanism of our contact with time and
+  space -- The relativity of uniform motion: classical ideas on the subject; the ether
+  and the apparent possibility of absolute motion; the Michelson-Morley experiment
+  and the final negation of this possibility -- The special theory of relativity:
+  what Einstein''s study of uniform motion tells us about time and space and the nature
+  of the external reality -- That parallel postulate: modern geometric methods; the
+  dividing line between Euclidean and non-Euclidean; and the significance of the latter
+  -- The space-time continuum: Minkowski''s world of events, and the way in which
+  it fits into Einstein''s structure -- Relativity: the winning essay in the contest
+  for the Eugene Higgins $5,000 prize -- the new concepts of time and space: the essay
+  in behalf of which the greatest number of dissenting opinions have been recorded
+  -- The principle of relativity: a statement of what it is all about, in ideas of
+  one syllable -- Space, time and gravitation: an outline of Einstein''s theory of
+  general relativity -- The principle of general relativity: how Einstein, to a degree
+  never before equalled, isolates the external reality from the observer''s contribution
+  -- Force vs. geometry: how Einstein has substituted the second for the first in
+  connection with the cause of gravitation -- An introduction to relativity: a treatment
+  in which the mathematical connections of Einstein''s work are brought out more strongly
+  and more successfully than usual in a popular explanation -- New concepts for old:
+  what the world looks like after Einstein has had his way with it -- The New World:
+  a universe in which geometry takes the place of physics, and curvature that of force
+  -- The quest of the absolute: modern developments in theoretical physics, and the
+  climax supplied by Einstein -- The physical side of relativity: the immediate contacts
+  between Einstein''s theories and current physics and astronomy -- The practical
+  significance of relativity: the best discussion of the special theory among all
+  the competing essays -- Einstein''s theory of relativity: a simple explanation of
+  his postulates and their consequences -- Einstein''s theory of gravitation: the
+  discussion of the general theory and its most important application -- The equivalence
+  hypothesis: the discussion of this, with its difficulties and the manner in which
+  Einstein has resolved them -- The general theory: fragments of particular merit
+  on this phase of the subject.'
+title: "Einstein's Theories of Relativity and Gravitation\r\nA selection of material\
+  \ from the essays submitted in the competition for the Eugene Higgins prize of $5,000"
+url: http://www.gutenberg.org/ebooks/63372
